@@ -1,4 +1,3 @@
-TAP version 13
 # Form Component
 ok 1 Given a username: should Render a greeting to the valid username.
 ok 2 Given a Phone Number: should render the vaild number of clicks.
